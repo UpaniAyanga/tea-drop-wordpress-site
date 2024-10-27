@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Herbal Tea (Caffeine Free) &#8211; Tea Drop</title>
+	<atom:link href="/product-category/herbal-tea-caffeine-free/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Brewed with Care, Sipped with Joy</description>
+	<lastBuildDate>Sun, 27 Oct 2024 12:00:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>Hibiscus Rose Petal Tea</title>
+		<link>/product/hibiscus-rose-petal-tea/</link>
+					<comments>/product/hibiscus-rose-petal-tea/#respond</comments>
+		
+		<dc:creator><![CDATA[teadrop host]]></dc:creator>
+		<pubDate>Sun, 27 Oct 2024 12:00:02 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=144</guid>
+
+					<description><![CDATA[Hibiscus Rose Petal Tea combines vibrant hibiscus flowers with delicate rose petals, creating a visually stunning and flavorful experience. With a tangy, slightly tart flavor and a floral finish, this caffeine-free blend is ideal for hot or iced tea and is rich in antioxidants.]]></description>
+										<content:encoded><![CDATA[<p>Hibiscus Rose Petal Tea combines vibrant hibiscus flowers with delicate rose petals, creating a visually stunning and flavorful experience. With a tangy, slightly tart flavor and a floral finish, this caffeine-free blend is ideal for hot or iced tea and is rich in antioxidants.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/hibiscus-rose-petal-tea/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Golden Turmeric Ginger Blend</title>
+		<link>/product/golden-turmeric-ginger-blend/</link>
+					<comments>/product/golden-turmeric-ginger-blend/#respond</comments>
+		
+		<dc:creator><![CDATA[teadrop host]]></dc:creator>
+		<pubDate>Sun, 27 Oct 2024 08:22:47 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=102</guid>
+
+					<description><![CDATA[A blend of turmeric, ginger, and warming spices, this caffeine-free infusion is both invigorating and grounding. Known for its anti-inflammatory properties, turmeric pairs with ginger for a robust and slightly spicy taste. Enjoy as a soothing tea or add steamed milk for a golden latte.]]></description>
+										<content:encoded><![CDATA[<p>A blend of turmeric, ginger, and warming spices, this caffeine-free infusion is both invigorating and grounding. Known for its anti-inflammatory properties, turmeric pairs with ginger for a robust and slightly spicy taste. Enjoy as a soothing tea or add steamed milk for a golden latte.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/golden-turmeric-ginger-blend/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chamomile Honey Delight</title>
+		<link>/product/chamomile-honey-delight/</link>
+					<comments>/product/chamomile-honey-delight/#respond</comments>
+		
+		<dc:creator><![CDATA[teadrop host]]></dc:creator>
+		<pubDate>Sun, 27 Oct 2024 08:20:58 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=100</guid>
+
+					<description><![CDATA[Chamomile Honey Delight combines calming chamomile flowers with a touch of honey essence, creating a comforting, naturally sweet tea. This caffeine-free blend is ideal for winding down in the evening, with soothing properties that promote relaxation and restful sleep.]]></description>
+										<content:encoded><![CDATA[<p>Chamomile Honey Delight combines calming chamomile flowers with a touch of honey essence, creating a comforting, naturally sweet tea. This caffeine-free blend is ideal for winding down in the evening, with soothing properties that promote relaxation and restful sleep.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/chamomile-honey-delight/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Organic Peppermint Bliss</title>
+		<link>/product/organic-peppermint-bliss/</link>
+					<comments>/product/organic-peppermint-bliss/#respond</comments>
+		
+		<dc:creator><![CDATA[teadrop host]]></dc:creator>
+		<pubDate>Sun, 27 Oct 2024 08:18:36 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=98</guid>
+
+					<description><![CDATA[Refreshing and caffeine-free, Organic Peppermint Bliss is a pure herbal infusion made from high-quality peppermint leaves. Its invigorating aroma and cool minty flavor provide a natural pick-me-up, perfect for clearing the mind and soothing digestion. Enjoy hot or iced for a refreshing experience.]]></description>
+										<content:encoded><![CDATA[<p>Refreshing and caffeine-free, Organic Peppermint Bliss is a pure herbal infusion made from high-quality peppermint leaves. Its invigorating aroma and cool minty flavor provide a natural pick-me-up, perfect for clearing the mind and soothing digestion. Enjoy hot or iced for a refreshing experience.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/organic-peppermint-bliss/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

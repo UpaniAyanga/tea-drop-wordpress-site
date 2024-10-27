@@ -1,0 +1,4 @@
+== LandingSiteFree Changelog ==
+
+= 1.0.2 = July 02, 2024
+* Bug fixes

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Green Tea &#8211; Tea Drop</title>
+	<atom:link href="/product-category/green-tea/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Brewed with Care, Sipped with Joy</description>
+	<lastBuildDate>Sun, 27 Oct 2024 11:24:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>Matcha Green Tea Powder</title>
+		<link>/product/matcha-green-tea-powder/</link>
+					<comments>/product/matcha-green-tea-powder/#comments</comments>
+		
+		<dc:creator><![CDATA[teadrop host]]></dc:creator>
+		<pubDate>Sun, 27 Oct 2024 08:28:10 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=107</guid>
+
+					<description><![CDATA[Our Matcha Green Tea Powder is made from high-quality, shade-grown green tea leaves, stone-ground into a fine powder. Known for its rich taste and high antioxidant content, matcha offers a smooth, earthy flavor with a natural sweetness. Perfect for traditional matcha tea or as an ingredient in lattes and smoothies.]]></description>
+										<content:encoded><![CDATA[<p>Our Matcha Green Tea Powder is made from high-quality, shade-grown green tea leaves, stone-ground into a fine powder. Known for its rich taste and high antioxidant content, matcha offers a smooth, earthy flavor with a natural sweetness. Perfect for traditional matcha tea or as an ingredient in lattes and smoothies.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/matcha-green-tea-powder/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
